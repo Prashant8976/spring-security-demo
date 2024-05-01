@@ -8,7 +8,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 public class SpringSecurityDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.print("test");
+		System.out.print("test1");
 		SpringApplication.run(SpringSecurityDemoApplication.class, args);
 	}
 
